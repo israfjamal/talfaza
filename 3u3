@@ -1,4 +1,48 @@
 #EXTM3U
+#EXTINF:-1,AL AOULA INTER
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/91
+#EXTINF:-1,AL AOULA INTER HD
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/7836
+#EXTINF:-1,LAAYOUNE TV HD
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/61483
+#EXTINF:-1,2M MAROC
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/109
+#EXTINF:-1,ARRIADIA TV
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1615
+#EXTINF:-1,ARRABIA TV
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/11921
+#EXTINF:-1,ALMAGHRIBIA  TV
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/86
+#EXTINF:-1,ASSADISSA TV
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1617
+#EXTINF:-1,AFLAM 7 HD
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/66439
+#EXTINF:-1,TAMAZIGHT TV
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/7837
+#EXTINF:-1,MEDI1 HD MAROC
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/61484
+#EXTINF:-1,MEDI 1 TV
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/16866
+#EXTINF:-1,TELE MAROC HD
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/86268
+#EXTINF:-1,CHADA TV
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/86269
+#EXTINF:-1,BEIN SPORTS HEVC
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/61389
+#EXTINF:-1,BEIN NEWS HEVC
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/61390
+#EXTINF:-1,BEIN 4K BARCA
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/61505
+#EXTINF:-1,BEIN NEWS HD
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/61506
+#EXTINF:-1,ALJAZEERA NEWS TV
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/64
+#EXTINF:-1,ALJAZEERA NEWS HD
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/7195
+#EXTINF:-1,ALARABIYA NEWS TV
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/7182
+#EXTINF:-1,ALARABIYA NEWS HD
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/65
 #EXTINF:-1,LANA TV
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/19919
 #EXTINF:-1,LANA TV 
@@ -197,14 +241,6 @@ http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/92429
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/92427
 #EXTINF:-1,ROTANA AFLAM + FHD 
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/92430
-#EXTINF:-1,ALJAZEERA NEWS TV
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/64
-#EXTINF:-1,ALJAZEERA NEWS HD
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/7195
-#EXTINF:-1,ALARABIYA NEWS TV
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/7182
-#EXTINF:-1,ALARABIYA NEWS HD
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/65
 #EXTINF:-1,AL HADATH TV
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/310
 #EXTINF:-1,ALHADATH HD TV
@@ -855,34 +891,6 @@ http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/87224
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/87227
 #EXTINF:-1,ALMASSAR AL OULA TV
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/87229
-#EXTINF:-1,AL AOULA INTER
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/91
-#EXTINF:-1,AL AOULA INTER HD
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/7836
-#EXTINF:-1,LAAYOUNE TV HD
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/61483
-#EXTINF:-1,2M MAROC
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/109
-#EXTINF:-1,ARRIADIA TV
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1615
-#EXTINF:-1,ARRABIA TV
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/11921
-#EXTINF:-1,ALMAGHRIBIA  TV
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/86
-#EXTINF:-1,ASSADISSA TV
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1617
-#EXTINF:-1,AFLAM 7 HD
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/66439
-#EXTINF:-1,TAMAZIGHT TV
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/7837
-#EXTINF:-1,MEDI1 HD MAROC
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/61484
-#EXTINF:-1,MEDI 1 TV
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/16866
-#EXTINF:-1,TELE MAROC HD
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/86268
-#EXTINF:-1,CHADA TV
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/86269
 #EXTINF:-1,AL ONS TV
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/86270
 #EXTINF:-1,AL AOULA INT HD
@@ -1265,14 +1273,6 @@ http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/46325
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/46324
 #EXTINF:-1,SUBORO TV
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/70343
-#EXTINF:-1,BEIN SPORTS HEVC
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/61389
-#EXTINF:-1,BEIN NEWS HEVC
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/61390
-#EXTINF:-1,BEIN 4K BARCA
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/61505
-#EXTINF:-1,BEIN NEWS HD
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/61506
 #EXTINF:-1,ART AFLAM1
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/46
 #EXTINF:-1,ART AFLAM2
